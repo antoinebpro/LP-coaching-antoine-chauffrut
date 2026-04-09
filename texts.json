@@ -1,0 +1,199 @@
+{
+  "hero": {
+    "name": "Antoine Chauffrut",
+    "badges": {
+      "coach": "Coach de dirigeants",
+      "psychologue": "Psychologue du travail"
+    },
+    "baseline": "J'accompagne les dirigeants à arrêter de subir et à retrouver du plaisir dans ce qu'ils font.",
+    "cta": "Je réserve ma séance de découverte"
+  },
+  "aboutMe": {
+    "title": "Qui je suis",
+    "intro": "Bonjour et bienvenue,\n\nJe suis Antoine, j'ai 31 ans. Je suis papa de (bientôt) deux petites filles et j'habite à Marseille.",
+    "paragraph1": "Psychologue du travail de formation, j'ai passé 5 ans à réunir les C-levels des startups françaises les plus matures. 2500 dirigeants qui apprenaient les uns des autres et se sentaient moins seuls sur leur poste. \nC'est là que j'ai compris ce qui bloque vraiment les gens qui réussissent. ",
+    "paragraph2": "Depuis 2023, je coache les dirigeants, leurs comités de direction et les solopreneurs. Plus de 50 accompagnements pour sortir des injonctions et retrouver du kiff.",
+    "paragraph3": "Je suis une force tranquille, je suis présent, contenant et apaisant. ",
+    "paragraph4": "Mon objectif ce n'est pas de te rendre dépendant. C'est de te donner les outils pour que tu vives de manière alignée, que tu sois bien avec toi et avec les autres. Et que tu n'aies plus besoin de moi.",
+    "paragraph5": "Je suis convaincu que le coaching devrait être tout sauf quelque chose de sérieux.\n \nLa vie c'est un jeu... Moi, je t'apprends juste à jouer."
+  },
+  "icp": {
+    "title": "La seule course que tu peux gagner, c'est la tienne",
+    "intro": "Tu n'es certainement pas arrivé ici par hasard.\n\nTu diriges ton entreprise ou ton activité. Tu performes, ",
+    "introHighlight1": "mais au fond quelque part,",
+    "introHighlight2": " tu sens que quelque chose bloque,",
+    "introEnd": " que tu pourrais aller encore plus loin. Pas en faisant plus. Mais en étant ",
+    "introHighlight3": "plus aligné avec toi-même",
+    "introPunctuation": ".",
+    "paragraph1": "La plupart des dirigeants qui me contactent ont un point commun : ils sentent qu'ils sont leur propre frein. ",
+    "paragraph2": " ",
+    "paragraph3": "Pas besoin d'être en crise. Pas besoin d'avoir tout raté.",
+    "paragraph4": "Il suffit ",
+    "paragraph4Continue": "d'avoir l'intuition que",
+    "paragraph4Highlight": " si tu prends du recul sur toi-même, sur tes émotions, sur ta manière de décider, tu seras un meilleur leader.",
+    "paragraph4End": " Pour embarquer les gens avec toi, en interne comme en externe.",
+    "paragraph5": " ",
+    "paragraph6": " ",
+    "conclusion": "Si ça te parle, viens on se parle.",
+    "cta": "Je réserve ma séance de découverte"
+  },
+  "benefits": {
+    "title": "Imagine-toi, dans 6 mois",
+    "tags": [
+      "♥️️  Tu kiffes ton quotidien",
+      "☯︎️   Tu es bien avec toi-même. Et tu es bien avec les autres",
+      "☯︎️   Tu es bien avec toi-même",
+      "🧗‍♂️️   Tu as dépassé tes blocages et tes croyances limitantes",
+      "🧘‍♂️  Tu es plus serein.e",
+      "🎯️  Tu sais prioriser donc tu atteins tes objectifs",
+      "⏳  Tu sais gérer ton temps",
+      "👉  Tu sais dans quelle direction tu vas",
+      "🧭   Tu arrêtes d'agir en girouette",
+      "🫷 Tu as laissé derrière toi certaines mauvaises habitudes qui te bloquent",
+      "🚦  Tu sais dire \"non\" à ce qui te freine et \"oui\" à ce qui compte.",
+      "🏔️  Tu as décidé ce que veut dire pour toi « réussir »",
+      "🙂  Tu es un.e leader plus authentique",
+      "✅  Tu vis une vie plus alignée"
+    ],
+    "disclaimer": "Je te dirais bien \"satisfait ou remboursé\" mais en réalité, cette transformation ne dépend pas que de moi. Cela te demandera de l'investissement et de la pratique. "
+  },
+  "format": {
+    "title": "Un cadre simple, un travail en profondeur",
+    "duration": {
+      "label": "Un accompagnement de ",
+      "value": "6 mois."
+    },
+    "frequency": {
+      "label": "Une séance ",
+      "value": "d'une heure tous les 2 semaines",
+      "punctuation": "."
+    },
+    "location": {
+      "label": "En visio ou à ",
+      "value": "Marseille",
+      "punctuation": "."
+    },
+    "investment": {
+      "label": "Un investissement de ",
+      "value": "400€ HT par mois",
+      "punctuation": "."
+    }
+  },
+  "method": {
+    "title": "Ensemble, nous allons...",
+    "subtitle": {
+      "part1": "Construire ",
+      "part2": "ta stratégie",
+      "part3": " pour atteindre tes objectifs.\nEt clarifier ",
+      "part4": "ta vision",
+      "part5": " pour que tu fasses la paix avec ce que tu attends de ta vie."
+    },
+    "steps": [
+      {
+        "number": "1",
+        "title": "Identifier ses croyances limitantes",
+        "description": "Grâce à quelques exercices, tu comprendras ce qui te bloque et pourquoi tu as l'impression de ne pas avancer."
+      },
+      {
+        "number": "2",
+        "title": "Construire ton identité souhaitée",
+        "description": "Crée ta \"boussole intérieure\" pour guider tes futures décisions et on voit comment l'utiliser dans ton quotidien."
+      },
+      {
+        "number": "3",
+        "title": "Ritualiser ces outils dans ton quotidien",
+        "description": "On crée des routines de santé mentale pour être aligné avec tes objectifs et serein dans leur atteinte. "
+      },
+      {
+        "number": "4",
+        "title": "Structurer un système de pensée",
+        "description": "Un système qui te mette en mouvement et t'emmène là où tu le souhaites."
+      },
+      {
+        "number": "5",
+        "title": "Visualiser comme un sportif de haut niveau",
+        "description": "On apprend ensemble comment la visualisation te permet d'atteindre plus facilement ton objectif."
+      }
+    ],
+    "cta": "Je réserve ma séance de découverte"
+  },
+  "testimonials": {
+    "title": "Eux aussi, ils ont atteint leur propre sommet",
+    "items": [
+      {
+        "name": "Claire C.",
+        "date": "Mars 2026",
+        "quote": "Les séances m'ont permis de prendre du recul sur certains sujets business, mais aussi de mieux comprendre certains mécanismes mentaux dans lesquels je pouvais me retrouver bloquée. Antoine pose beaucoup de questions, il ne donne pas des réponses toutes faites, et c'est justement ça qui fait avancer."
+      },
+      {
+        "name": "Alexandre",
+        "date": "Mars 2026",
+        "quote": "Super expérience avec Antoine pendant ces 3 mois de coaching. Il m'a amené à me poser les bonnes questions et m'a permis de progresser sur plusieurs axes importants pour moi : la délégation, la gestion de la politique interne et le time management. (...) Je recommande Antoine avec grand plaisir."
+      },
+      {
+        "name": "Marie",
+        "date": "Ocotbre 2025",
+        "quote": "Quand j'ai commencé l'accompagnement avec Antoine, j'étais pleine de doutes et de tensions que je n'arrivais pas à identifier.\nEn quelques semaines, il m'a aidée à mettre des mots sur mes blocages, à mieux me connaître et à retrouver de la légèreté dans mon quotidien d'entrepreneure.\nAujourd'hui, je vis mon activité avec beaucoup plus de confiance et de plaisir. Un vrai avant/après."
+      },
+      {
+        "name": "Alex",
+        "date": "Ocotbre 2025",
+        "quote": "Accompagnement parfait avec Antoine, il a très vite compris les enjeux, et a su apporter les bons outils à mettre en place pour les relever.\nJe recommande fortement, puissant et libérateur !"
+      },
+      {
+        "name": "Juliette",
+        "date": "Ocotbre 2025",
+        "quote": ""
+      },
+      {
+        "name": "Erman Korkut",
+        "date": "",
+        "role": "CEO",
+        "quote": "Le travail avec Antoine a contribué à structurer ma stratégie de dirigeant, à maintenir le cap et à opérer les bons arbitrages dans un contexte de forte croissance et de changement d'échelle. En matière de résultat, grâce à ce recul j'ai trouvé ma posture, et suis en train de dépasser la barre du million d'€ de chiffre d'affaires."
+      },
+      {
+        "name": "Lise Pothier",
+        "date": "",
+        "role": "Architecte et fondatrice",
+        "quote": "Grâce à Antoine, je sais mieux m'entourer, j'ai appris à mieux savoir si les gens sont fait pour collaborer avec moi, je sais mieux savoir si mes équipes sont équilibrées au niveau de leur profil… pour construire une équipe de 10 personnes  diversifiée et complémentaire et ainsi obtenir des projets architecturaux de qualité."
+      }
+    ]
+  },
+  "faq": {
+    "title": "On répond à tes questions",
+    "items": [
+      {
+        "question": "C'est quoi la différence avec une thérapie ?",
+        "answer": "Rassure-toi ce n'est pas une thérapie, bien que psychologue de formation, je ne suis pas là pour ça. On convient ensemble des sujets à traiter et de l'objectif de l'accompagnement. Là où la psychologie vient déterrer le passé, je me concentre sur la résolution de tes objectifs. Là où la thérapie se concentre sur les traumatismes, je me concentre sur le présent et le futur."
+      },
+      {
+        "question": "Tu travailles avec quel type de dirigeants ?",
+        "answer": "Aucune préférence sectorielle. Ce qui compte : tu es en train de gagner en maturité, tu es prêt à te regarder en face, et tu as l'intuition que c'est toi ton prochain levier."
+      },
+      {
+        "question": "Comment m'assurer que j'obtiendrais des résultats ?",
+        "answer": "Chaque coaching est personnalisé et orienté résultats. Des points réguliers te permettront de mesurer tes progrès. Si nécessaire, nous ajusterons ensemble le parcours."
+      },
+      {
+        "question": "Est-ce que cela vaut l'investissement ?",
+        "answer": "Le coaching est un investissement. Le ROI se manifeste par une compréhension de ce qu'il se joue en toi, des décisions alignées et une sérénité retrouvée. Régulièrement, des décisions sont prises dans la foulée de mon accompagnement."
+      },
+      {
+        "question": "Ma semaine est déjà remplie. Je ne suis pas sûr de pouvoir prendre ce temps.",
+        "answer": "Les séances sont conçues pour s'adapter à ton emploi du temps. Surtout, ne pas prendre ce temps est vrai symptôme de cette gestion \"par défaut\" dont je parle plus haut. Vois ça comme un investissement concret pour ton épanouissement."
+      },
+      {
+        "question": "Je ne suis pas sûr que le coaching est fait pour moi.",
+        "answer": ""
+      }
+    ]
+  },
+  "finalCta": {
+    "title": {
+      "part1": "Tu es prêt.e à faire le premier pas ?",
+      "part2": ""
+    },
+    "description": "Réserve ta séance de découverte gratuite. On discute, je te pose des questions et tu vois si tu te projettes avec moi.",
+    "cta": "Je réserve ma séance de découverte"
+  }
+}
